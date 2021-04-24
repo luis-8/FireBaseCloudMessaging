@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487303388412",
+    "project_id": "androidfirebase-31043",
+    "storage_bucket": "androidfirebase-31043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487303388412:android:6d5837952b07c23ad54b79",
+        "android_client_info": {
+          "package_name": "com.luis.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487303388412-p72vneme5gamb2ivf35rnhfj4i1fv4kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjXEVq6YRhriLjvw4R00mpdM794GQRnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487303388412-p72vneme5gamb2ivf35rnhfj4i1fv4kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
